@@ -12,6 +12,7 @@ import PGFramework
 
 protocol TopMainViewDelegate: NSObjectProtocol{
     
+    
 }
 
 extension TopMainViewDelegate {
